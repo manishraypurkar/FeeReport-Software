@@ -15,7 +15,7 @@ import java.util.*;
 
 /**
  *
- * @author Admin
+ * @author manish raypurkar
  */
 public class Login extends JFrame  implements ActionListener
 {
