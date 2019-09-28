@@ -27,7 +27,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author Admin
+ * @author manish raypurkar
  */
 public class AddAccountant extends JFrame implements ActionListener{
     
