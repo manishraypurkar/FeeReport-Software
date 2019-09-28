@@ -22,7 +22,7 @@ public class Database {
      static final String url = "jdbc:mysql://localhost:3306/FeeReport";
 	//String name = "com.mysql.jdbc.Driver";
 	static final String user ="Manish";
-	static final String pass ="Manish@123";
+	static final String pass ="Manish";
      
     Connection con;
 Connection establish()
