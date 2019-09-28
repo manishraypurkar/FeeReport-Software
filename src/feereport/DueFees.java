@@ -24,7 +24,7 @@ import net.proteanit.sql.DbUtils;
 
 /**
  *
- * @author Admin
+ * @author manish raypurkar
  */
 public class DueFees extends JFrame  {
     
