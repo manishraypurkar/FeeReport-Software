@@ -24,7 +24,7 @@ import net.proteanit.sql.DbUtils;
 
 /**
  *
- * @author Admin
+ * @author manish raypurkar
  */
 public class ViewStudent extends JFrame{
     
