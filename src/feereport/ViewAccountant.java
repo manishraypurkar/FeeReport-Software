@@ -27,7 +27,7 @@ import javax.swing.table.JTableHeader;
 import net.proteanit.sql.DbUtils;
 /**
  *
- * @author Admin
+ * @author manish raypurkar
  */
 public class ViewAccountant extends JFrame {
     
