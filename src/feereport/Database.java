@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Admin
+ * @author manish raypurkar
  */
 public class Database {
     
