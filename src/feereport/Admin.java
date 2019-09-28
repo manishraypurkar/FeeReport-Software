@@ -20,7 +20,7 @@ import javax.swing.JPanel;
 
 /** 
  *
- * @author Admin
+ * @author manish raypurkar 
  */
 public class Admin extends JFrame implements ActionListener{
      JPanel p=new JPanel();
